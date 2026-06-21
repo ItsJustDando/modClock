@@ -11,7 +11,7 @@ Format below is as follows: `[part amount] part name`
 
 ## Dependencies
 On the Raspberry Pi Zero W, you will need to create a Virtual Environment to install modules for your project.
-Full documentation in the `env_setup_instructions.md` file
+Full documentation in the `env_setup.md` file
 
 If you downloaded the dependencies correctly through the setup instructions, you can skip this part and go to wiring.
 - For the 7-segment LED: [Adafruit HT16K33 Python module info](https://github.com/adafruit/Adafruit_CircuitPython_HT16K33)
